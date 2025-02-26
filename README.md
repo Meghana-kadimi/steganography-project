@@ -28,11 +28,11 @@ pip install opencv-python numpy pillow tkinter
 ```
 
 **How to Run the Application**
-1. **Clone or download** the project repository.
+1. **Clone or download** the project repository.https://github.com/Meghana-kadimi/steganography-project.git
 2. **Navigate** to the project directory:
-   cd internship-project/Stenography
+   cd internship-project/Steganography
 3. **Run the application**:
-   python stegography.py
+   python stega.py
    
 
 Usage Instructions
